@@ -1,4 +1,24 @@
 /* 
+     IPO (Input, Process, Output)
+1. Input
+-Assignment mark (out of 100)
+-Midterm mark (out of 100)
+-Final exam mark (out of 100)
+
+2. process
+-Declare four double variables: assignment, midterm, finalExam, and total
+-Get the assignment, midterm, and final exam marks from the user
+-Calculate the total using the given percentages (20%, 30%, and 50%)
+-Display the word "Total"
+-Display the total mark to one decimal place
+-Check whether the total mark is greater than or equal to 50
+-Print "Pass" if the total is 50 or above; otherwise, print "Fail"
+
+3. Output
+-print the total mark to one decimal place
+-print the result ("Pass" or "Fail")
+
+
      Program Design(Algorithm)
 
 1. Start
@@ -18,6 +38,7 @@
 12. Display "Pass" if the total is at least 50; otherwise, display "Fail"
 13. End
     */
+
 
 //Actual code
 
@@ -45,3 +66,4 @@ int main() {
     cout << "Result: " << (total >= 50 ? "Pass" : "Fail") << endl;
 
     return 0;
+}
