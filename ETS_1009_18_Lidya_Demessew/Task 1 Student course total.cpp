@@ -1,4 +1,9 @@
 /* TASK 1(design and code only) 
+
+Input: three marks, each out of 100 (assignment, midterm, final).
+Output: the total to one decimal place, and the word Pass or Fail.
+Process: compute the weighted total (20% + 30% + 50%), then compare it with the pass mark.
+
 1.1 Variable Type
 assignment = double (Marks may have decimals (e.g. 87.5).)
 midterm = double (Same reason.)
