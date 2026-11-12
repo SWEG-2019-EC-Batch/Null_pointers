@@ -1,7 +1,7 @@
 
 # Task 1: Student Course Total
 
-**Source Code:** [Student Course Total.cpp](./ETS_1050_18_Mahlet_Menberu/Student_course_total.cpp)
+**Source Code:** [Student Course Total.cpp](./Student_course_total.cpp)
 
 ## Flowchart
 
@@ -24,7 +24,7 @@ flowchart TD
 
 # Task 2: Electricity Bill
 
-**Source Code:** [Electricity Bill.cpp](./ETS_1050_18_Mahlet_Menberu/Electricity_bill.cpp)
+**Source Code:** [Electricity Bill.cpp](./Electricity_bill.cpp)
 
 ## Flowchart
 
@@ -49,7 +49,7 @@ flowchart TD
 
 # Task 3: Trip Speed and Fuel Cost
 
-**Source Code:** [Trip Speed and Fuel Cost.cpp](./ETS_1050_18_Mahlet_Menberu/Trip_speed_and_fuel_cost.cpp)
+**Source Code:** [Trip Speed and Fuel Cost.cpp](./Trip_speed_and_fuel_cost.cpp)
 
 ## Flowchart
 
