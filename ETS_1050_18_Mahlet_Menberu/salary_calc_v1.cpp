@@ -48,7 +48,12 @@ int main() {
 
   This shows how applying one tax rate to the whole
   salary can sometimes be unfair to hardworking employees.
+
+  Using progressive taxation solves this problem by applying
+  higher tax rates only to the portion of salary in each
+  higher tax bracket, making the system fairer.
 */
+
     // Calculate tax based on gross salary
     if (gross_salary >= 0 && gross_salary <= 3500) {
         tax = 0;
